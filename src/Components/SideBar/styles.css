@@ -1,0 +1,81 @@
+.outer-div{
+    max-width: 5px;
+    top:80px;
+}
+.title{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: left;
+    margin-bottom: 1px;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 1.3rem;
+    background-color: #0e489e;
+}
+.drop-btn{
+    height: 60px;
+    width: 50px;
+    font-size: 2rem;
+    background-color: #fff;
+    color: #0e489e;
+    border-radius: 0 10px 10px 0;
+    border:none;
+    position: relative;
+    display: block;
+    top:-37px;
+    right:-250px;
+}
+.drop-btn:focus{
+    border: 2px solid gray;
+}
+.submenuLink{
+    color:#000;
+    display: block;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin: 10px auto;
+}
+.submenuLink:hover, .submenuLink:active{
+    color: #0066ff;
+    cursor: pointer;
+}
+.submenu-div{
+    background-color:#f3f3f3;
+    height: auto;
+    margin-left: 10px;
+    width: 270px;
+    padding: 10px;
+
+}
+
+.close{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: left;
+    margin-bottom: 1px;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 1.3rem;
+    background-color: #0e489e;
+}
+.close-btn{
+    height: 60px;
+    width: 50px;
+    font-size: 2rem;
+    background-color: #fff;
+    color: #0e489e;
+    border-radius: 0 10px 10px 0;
+    border:none;
+    position: relative;
+    padding-bottom: 20px;
+    display: block;
+    top:-37px;
+    right:-250px;
+}
+.close-btn:focus{
+    border: 2px solid gray;
+}

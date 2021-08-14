@@ -1,0 +1,38 @@
+[
+    {
+        "consignmentid": "1234567890128",
+        "routename": "DELHI-JAIPUR",
+        "initalconsignwt": 23,
+        "finalconsignwt": 100,
+        "vehicleno": "HR12512525",
+        "partnername": "TATA",
+        "startkm": 89,
+        "endkm": 99,
+        "bagcount": 5,
+        "scannedstatus": false
+    },
+    {
+        "consignmentid": "0036000291452",
+        "routename": "DELHI-KOLKATA",
+        "initalconsignwt": 231,
+        "finalconsignwt": 1005,
+        "vehicleno": "DL12512525",
+        "partnername": "MARUTI",
+        "startkm": 9,
+        "endkm": 165,
+        "bagcount": 129,
+        "scannedstatus": false
+    },
+    {
+        "consignmentid": "012000291452",
+        "routename": "DELHI-KOLKATA",
+        "initalconsignwt": 131,
+        "finalconsignwt": 1105,
+        "vehicleno": "MH12512523",
+        "partnername": "HONDA",
+        "startkm": 119,
+        "endkm": 1653,
+        "bagcount": 1290,
+        "scannedstatus": false
+    }
+]

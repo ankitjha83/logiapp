@@ -1,0 +1,293 @@
+.selecttag{
+    background: rgb(238, 171, 216);
+    border:none;
+    border-radius: 5px;
+    height: 30px;
+    width: 230px;
+    padding: 5px;
+    font-size: 16px;
+    color:black;
+    margin: 30px 50px;
+    text-align-last:center;
+    
+}
+.selecttagtripsheet{
+    background: rgb(238, 171, 216);
+    border:none;
+    border-radius: 5px;
+    height: 30px;
+    width: 230px;
+    padding: 5px;
+    font-size: 16px;
+    color:black;
+    margin: 30px 40px;
+    text-align-last:center;
+}
+.Routename{
+    font-weight: bold;
+    margin-left: 50px;    
+}
+.scan{
+    background: rgb(0, 255, 242);
+   margin-left: 50px;
+    height: 30px;
+    width: 230px;
+    font-size: 16px;
+    color:black;
+    border: thick double black;
+    
+
+}
+.addtripsheetrow{
+    background: rgb(238, 171, 216);
+    margin-left: 10px;
+     height: 30px;
+     width: 230px;
+     font-size: 16px;
+     color:black;
+     border: 3px solid black;
+}
+.scancomponent{
+  
+    position: absolute;
+    left: 50px;
+    top:195px
+    
+}
+.maintable{  
+    margin-top: 320px;   
+  
+}
+.tablediv{
+    width: 95%;
+    overflow-x:scroll;
+    margin-left:20px ;
+    margin-right:20px ;
+
+}
+.maintable th{
+   background-color: yellow;
+   color: black;
+   font-size: 0.8em;
+   padding: 3px 15px;
+   text-align: center;
+}
+.maintable td{
+    font-size: 0.7em;
+    padding: 3px 5px;
+    text-align: center;
+}
+.podtable{
+    overflow-x: auto;
+    margin-top: 34px;
+    width: 480px;
+}
+.podtable th{
+    background-color: yellow;
+    color: black;
+    font-size: 0.8em;
+    padding: 12px 5px;
+    text-align: center;
+}
+.podtable td{
+    font-size: 0.8em;
+    padding: 12px 5px;
+    text-align: center;
+}
+.span{
+    font-weight: bold;
+    margin-left: 40px;   
+}
+.POD{
+    margin-top: 50px;
+    padding-left: 260px;
+    border: 2px solid white;
+   height: 100vh;
+   border-bottom: none;
+
+}
+
+.Submitbtn{
+    background: rgb(238, 171, 216);
+    height: 30px;
+    width: 230px;
+    padding: 5px;
+    font-size: 16px;
+    color:black;
+    margin: 30px 178px;
+    text-align-last:center;
+    border:3px solid black;
+    font-weight: bold;
+
+}
+.inputfield{
+    background: rgb(238, 171, 216);
+    height: 20px;
+    width: 220px;
+    padding: 5px;
+    font-size: 16px;
+    margin: 30px 15px;
+    text-align-last:center;
+    color:black;
+
+    
+}
+.inputfield::placeholder{
+    color:black;
+  
+}
+.or{
+    margin-left: 40px;
+}
+.datetime{
+    background: rgb(238, 171, 216);
+    height: 20px;
+    width: 220px;
+    padding: 5px;
+    font-size: 16px;
+    margin: 30px 110px;
+    text-align-last:center;
+    color:black;
+}
+.PendingBags{
+
+    margin-left: 260px;
+    overflow-y: auto;
+}
+.tripsheet{
+    margin-top: 15px;
+    margin-left: 10px;
+    border: 2px solid white;
+   height: 100vh;
+   border-bottom: none;
+   
+}
+.tripsheetmoduleheading{
+    text-align: center;
+}
+.PODmoduleheading{
+    margin-left: 180px;
+}
+
+.bagweighingandreceiving{
+    margin-top: 15px;
+    margin-left: 10px;
+    border: 2px solid white;
+   height: 100%;
+   border-bottom: none;
+}
+.bagweighingandreceivingmoduleheading{
+    text-align: center;
+}
+.BagId{
+    margin:40px;
+  }
+.searchhere{
+    background: rgb(238, 171, 216);
+    margin-left: 100px;
+     height: 20px;
+     width: 230px;
+     font-size: 16px;
+     color:black;
+     text-align-last:center;
+     border: 2px solid black;
+     border-radius: 5px;
+}
+.searchhere::placeholder{
+    color:black;
+}
+.consignmenttable{
+    margin-left: 21px;
+    margin-top: 320px;
+   width: 95%;
+}
+.consignmenttable th{
+    background-color: yellow;
+    color: black;
+    font-size: 0.8em;
+    padding: 15px;
+    text-align: center;
+}
+.consignmenttable td{
+    font-size: 0.8em;
+    padding: 3px 5px;
+    text-align: center;
+}
+.bagreceivingtablediv{
+    margin-top: 10px;
+    width: 95%;
+    overflow-x:scroll;
+    overflow-y:scroll;
+    margin-left:20px ;
+    margin-right:20px ;
+}
+.bagtable{
+ margin-top: 20px;
+}
+.bagtable th{
+    background-color: yellow;
+    color: black;
+    font-size: 0.8em;
+    padding: 3px 15px;
+    text-align: center;
+}
+.bagtable td{
+    font-size: 0.7em;
+    padding: 3px 5px;
+    text-align: center;
+}
+.scansummarytableone{
+    width: 95%;
+    margin-left: 21px;
+    margin-top: 32px;
+    margin-bottom: 30px;
+}
+.scansummarytableone th{
+    background-color: yellow;
+    color: black;
+    font-size: 0.8em;
+    padding: 15px;
+    text-align: center;
+}
+.scansummarytableone td{
+    font-size: 0.8em;
+    padding: 3px 5px;
+    text-align: center;
+}
+.scanmorebagquestion{
+    font-weight: bold;
+    padding-left: 20px;
+    margin-right: 100px;
+}
+.scanmorebagbutton{
+    background: rgb(238, 171, 216);
+    height: 30px;
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+    color:black;
+    text-align-last:center;
+    border:3px solid black;
+    font-weight: bold;
+}
+.drivernamelabel{
+    background-color: blanchedalmond;
+    color: black;
+    margin-left: 10px;
+    padding: 5px 40px;
+
+}
+.otpinput{
+    background: rgb(238, 171, 216);
+    border:none;
+    height: 20px;
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+    color:black;
+    text-align-last:center;
+}
+.center{
+    text-align: center;
+    margin-bottom: 20px;
+}

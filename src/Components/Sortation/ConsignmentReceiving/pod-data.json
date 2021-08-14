@@ -1,0 +1,22 @@
+[
+    {
+        "consignmentid": "11",
+        "pod": "google.com",
+        "routename": "DELHI-JAIPUR"
+    },
+    {
+        "consignmentid": "23",
+        "pod": "yahoo.com",
+        "routename": "DELHI-KOLKATA"
+    },
+    {
+        "consignmentid": "34",
+        "pod": "yahol.com",
+        "routename": "DELHI-SURAT"
+    },
+    {
+        "consignmentid": "45",
+        "pod": "www.gmail.com",
+        "routename": "SURAT-VAPI"
+    }
+]
